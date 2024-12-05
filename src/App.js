@@ -17,7 +17,7 @@ import NavbarTrangChu from "./NavbarTrangChu";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="truyenhung">
       <Routes>
         <Route
           path="/"
