@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/truyenhung/static/css/main.c5095977.css",
-    "main.js": "/truyenhung/static/js/main.e7f2556c.js",
+    "main.js": "/truyenhung/static/js/main.61a5286a.js",
     "index.html": "/truyenhung/index.html",
     "main.c5095977.css.map": "/truyenhung/static/css/main.c5095977.css.map",
-    "main.e7f2556c.js.map": "/truyenhung/static/js/main.e7f2556c.js.map"
+    "main.61a5286a.js.map": "/truyenhung/static/js/main.61a5286a.js.map"
   },
   "entrypoints": [
     "static/css/main.c5095977.css",
-    "static/js/main.e7f2556c.js"
+    "static/js/main.61a5286a.js"
   ]
 }
